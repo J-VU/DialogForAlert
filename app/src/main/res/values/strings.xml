@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog For Alert</string>
+    <string name="main_text_home">Tap Button(s) to Test Functions</string>
+    <string name="button_label_alert">Alert</string>
+    <string name="alert_title_alert">Alert</string>
+    <string name="alert_message_ok_cancel">Click \"OK\" to continue or \"CANCEL\" to stop:</string>
+    <string name="toast_select_ok">Selected \"OK\"</string>
+    <string name="toast_select_cancel">Selected \"CANCEL\"</string>
+    <string name="button_label_date">Date</string>
+    <string name="date_picker">datePicker</string>
+    <string name="date_spacer"> / </string>
+    <string name="date_toast_changed">Date Changed</string>
+</resources>
